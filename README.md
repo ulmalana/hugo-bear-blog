@@ -1,1 +1,4 @@
-# hugo-bear-blog
+# My Blog
+
+Built with Hugo ʕ•ᴥ•ʔ Bear.
+
