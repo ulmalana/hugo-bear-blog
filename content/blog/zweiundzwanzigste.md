@@ -1,0 +1,18 @@
+---
+title: "Zweiundzwanzigste"
+description: ""
+published: 2017-02-28
+tags:
+- Tulisan Bebas
+---
+Ada banyak hal yang saya suka dari bulan Februari; ia merupakan satu-satunya bulan dengan jumlah hari kurang dari 30, satu-satunya bulan dengan pengecualian tentang tahun kabisat, dan—ini yang membuat saya selalu terikat dengan Februari—fakta bahwa saya dilahirkan di bulan Februari. Dan hari ini—28 Februari—bagi saya selalu menjadi titik persimpangan; di depan sudah terbentang dua jalan ke arah yang berbeda. Satu jalan langsung mengarah ke bulan Maret, dan yang satunya mengarah ke tanggal 29 Februari. Seringkali kita lewat jalan yang mengarah ke bulan Maret, dan hanya tiap empat tahun sekali kita berjalan ke arah tanggal 29 Februari.
+
+Saya seringkali berharap dan bermimpi dilahirkan di tanggal 29 Februari lalu menjadi bagian dari sekelompok masyarakat yang cukup unik karena lahir di tanggal yang hanya muncul sekali dalam empat tahun. Tapi, kalau saya ingin dilahirkan di tanggal 29 Februari, maka kelahiran saya harus ditunda satu tahun plus satu hari karena tanggal 29 Februari baru muncul di tahun 1996, bukan 1995. Tidak masalah lah bagi saya kalau hidup ini harus ditunda satu tahun. Seringkali pula saya berangan-angan bagaimana rasanya lahir di tanggal 29 Februari dan berulang tahun tiap empat tahun sekali; banyak orang akan menunggu tanggal tersebut pastinya, baik untuk merayakan hari ulang tahunmu atau... mengerjaimu habis-habisan karena momen tersebut jarang terjadi. Pastinya kamu akan merasakan suatu perasaan aneh tapi menggembirakan saat sedang berada di tanggal 29 tersebut. Ya, aneh, karena kalau kamu menghitung usiamu berdasarkan kalender, barangkali umurmu belum mencapai 10 tahun tetapi secara fisik usiamu sudah belasan atau puluhan tahun karena tubuhmu tidak mengenal waktu kalender. Akan tetapi, itu semua hanya angan-angan serta bayangan saya dan bagaimanapun saya tidak bisa mengubah fakta bahwa saya tidak dilahirkan di tanggal 29 Februari (atau mungkin saya harus minta ke tuhan?).
+
+Di usia yang sudah lebih dari 20 tahun ini, saya merasa ada sangat banyak hal yang harus saya lakukan. Atau katakanlah ada banyak sekali beban dan tanggung jawab yang menanti dengan semakin bertambahnya usia sekaligus harapan dan impian yang sudah menunggu untuk diraih. Saya tak tahu apakah bertambahnya usia itu harus disyukuri atau justru malah dikutuk. Yah, memang bertambahnya usia berarti kita sudah diberi kesempatan untuk menikmati hidup ini dan itu harus disyukuri, tetapi di sisi lain kadang saya merasa bertambahnya usia seperti kutukan kalau harus menikmati dunia ini dengan keadaan yang, yah, seperti sekarang ini.
+
+Setiap tanggal 28 Februari, saya tidak berekspektasi adanya suatu perayaan, apalagi perayaan yang berlebihan. Sejak kecil, orang tua saya sudah membiasakan saya dengan tidak adanya perayaan. Jadi, saya cenderung untuk menutupi tanggal lahir saya, atau paling tidak meminimalisasi jumlah orang yang tahu tanggal lahir saya. Meskipun begitu, saya cukup senang kalau ada orang yang punya inisiatif walaupun hanya sebatas ucapan selamat.
+
+Lalu, terakhir, apa yang saya harapkan di tanggal 28 Februari ini? Yah pastinya sama seperti harapan-harapan klise yang selalu diucapkan pada hari ulang tahun. Tapi, kalau boleh lebih spesifik, saya hanya ingin menyelesaikan skripsi saya dengan baik, lalu lulus dan wisuda dengan dihadiri oleh keluarga saya, dan bisa melanjutkan studi ke eropa; Jerman mungkin, atau Finlandia, Belanda, UK, atau Swedia. "Nggak berharap cepet dapet jodoh?", barangkali itu pertanyaanmu, dan saya hanya bisa menjawab "Ya... Boleh lah". Heuheuheu.
+
+Ngomong-ngomong, jangan ambil pusing dengan judul tulisan ini. Zweiundzwanzigste dibaca "svai-un-svansih-shte" yang artinya "ke-22".

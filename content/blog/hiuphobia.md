@@ -1,0 +1,22 @@
+---
+title: "Hiu-phobia"
+description: ""
+published: 2016-10-07
+tags:
+- Tulisan Bebas
+---
+Aku punya fobia yang cukup spesifik, yaitu fobia terhadap ikan hiu. Spesiesnya pun spesifik, _Carcharodon carcharias_, _Great White Shark_, Hiu Putih. Aku memang belum pernah melihat secara langsung hiu putih secara langsung di laut lepas, bahkan pergi ke laut pun aku jarang.
+
+<!--more-->
+
+Cukup menarik bagiku bagaimana tubuh seseorang bisa mengembangkan sebuah fobia atau ketakutan dari "paparan tak langsung" suatu objek. Maksudnya, dalam contoh kasusku, aku fobia hiu putih meskipun aku belum pernah bertemu atau melihatnya secara langsung di laut. Aku seringkali melihat hiu putih di televisi. Baik itu film, dokumenter, atau iklan. Dari kecil, aku suka binatang, dan segala tayangan tentang binatang aku suka. Tapi rasa suka itu rusak atau bisa dikatakan "tersaring" setelah menonton film Jaws dan kawan-kawannya tentang teror binatang terhadap manusia. Aku melihat betapa ngerinya seseorang yang berdiri agak jauh dari lubang air diterkam oleh hiu putih besar yang tiba-tiba muncul dan meloncat melalui lubang itu, lalu masuk ke dalam air lagi. Aku melihat bagaimana seekor hiu putih dengan ganasnya berusaha untuk mendobrak lempengan besi, berusaha untuk memangsa manusia yang ada di baliknya. Aku pun masih ingat sebuah iklan sikat gigi, di mana ada dua orang pemancing sedang menggosok gigi di tepian perahu nelayan kecil, lalu salah satu dari mereka mengaduh sakit karena sikat gigi yang buruk. Ia lalu meludah darah ke laut, dan sesaat kemudian. . _wooshh_, seekor hiu putih besar meloncat dari laut tenang dan melahap orang itu lalu membawanya ke dalam air. Aku tahu bahwa semua adegan di atas hanya rekaan, tapi bagiku dulu yang masih kecil terasa nyata.
+
+Memang, fobia itu tidak datang seketika itu juga. Ada semacam waktu inkubasi—seperti pada virus HIV/AIDS—yang mengubah dari rasa "agak" takut menjadi fobia sekarang ini. Perlu ditambahkan di sini bahwa aku pun fobia terhadap kedalaman akhir-akhir ini, apalagi kedalaman laut yang gelap. Kombinasi yang "sempurna", menurutku, kalau digabung dengan fobia hiu. Aku selalu membayangkan kalau di balik setiap permukaan laut, berkeliaran hiu-hiu putih dan predator lain yang siap menerkam apa saja yang jatuh ke permukaan laut. Aku, yang dibesarkan di pedesaan, dulu sering mandi di kali yang cukup dalam. Dan sekarang aku merasa bahwa dulu aku sangat berani untuk mandi di air yang "gelap" (bukan kotor). Tak peduli apa yang ada di sekitarku.
+
+Sumber: 9GAG
+
+Fobiaku sudah sampai pada level di mana aku bisa dengan mudah membayangkan sedang dikelilingi hiu, terutama saat mandi. Saat mengguyur air ke kepala, aku menutup mata, lalu tiba-tiba aku sedang berada di dalam laut dingin dan seekor hiu putih besar sedang berenang mengelilingiku. Ia berenang mendekat dan menjauh, ragu-ragu kapan harus menyerang korban di depannya. Kemudian, ia mendekat dengan pasti, membuka mulut besarnya dengan gigi-gigi besar dan tajam di depan mukaku. Lalu aku membuka mata, tak tahan dengan bayangan tersebut yang terasa begitu nyata. Aku dulu pernah membaca komik Doraemon yang bercerita tentang keinginan Nobita untuk memancing tanpa harus pergi ke sungai atau laut. Lalu Doraemon mengeluarkan alat yang bisa mengubah tanah seperti laut (tanah yang bisa diselami ikan) dan kail yang bisa menembus tanah tersebut. Bisa ditebak, sebuah sirip segitiga melengkung muncul di atas tanah dan berkeliling kota meneror siapa saja yang ada di atas tanah. Dari hal sesederhana komik Doraemon itu sering terbayangkan pula saat aku menutup mata, seekor hiu putih tiba-tiba muncul dan meloncat dari bak mandi menerkamku seperti adegan iklan di atas. Air yang dingin seringkali menguatkan bayangan itu, benar-benar membuatku seperti sedang di dalam laut. Bagi kalian, hal-hal tersebut mungkin tidak masuk akal. Tapi yakinlah, itu benar-benar sering aku alami.
+
+Mungkin aku terlalu berlebihan kalau mengatakan bahwa aku fobia hiu. Bisa jadi apa yang aku alami hanya perasaan ngeri atau takut yang biasa saja—perasaan yang hampir semua orang miliki, sepertinya. Dan perasaan itu seringkali berubah menjadi prihatin saat tahu bahwa lebih banyak jumlah hiu yang mati oleh manusia dibandingkan jumlah manusia yang mati oleh hiu.
+
+Terakhir, aku ingin menutup tulisan dengan sebuah kalimat yang selalu aku ucapkan pada diriku sendiri saat tiba-tiba saja aku mengalami hal-hal di atas—dan aku harap kalimatku ini juga bisa mengurangi rasa takut atau fobiamu terhadap apapun, bahwa ketakutan dan yang kamu takuti itu hanya ada di kepalamu.
