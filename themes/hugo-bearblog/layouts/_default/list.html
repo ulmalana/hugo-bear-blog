@@ -1,5 +1,9 @@
 {{ define "main" }}
-<h1>All Posts</h1>
+<h1>
+All Posts:
+{{ len (where .Site.RegularPages "Section" "=" "blog") }} Posts
+</h1>
+<hr>
 <content>
   {{ if .Data.Singular }}
   <h3 style="margin-bottom:0">Filtering for "{{ .Title }}"</h3>

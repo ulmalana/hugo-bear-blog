@@ -9,6 +9,7 @@
   </i>
 </p>
 {{ end }}{{ end }}
+<hr>
 <content>
   {{ .Content }}
 </content>
@@ -17,4 +18,25 @@
   <a href="{{ .Permalink }}">#{{ .LinkTitle }}</a>
   {{ end }}
 </p>
+<hr>
+<div class="container">
+    {{ if .Section }}
+    <nav class="flex container suggested">
+        {{ with .PrevInSection }}
+        <span><b>Previous: </b></span>
+        <a rel="prev" href="{{ .RelPermalink }}" title="Previous post (older)">
+            
+            {{ .Title }}
+            </a>
+        {{ end }}
+        
+        {{ with .NextInSection }}
+        <span><b>Next: </b></span>
+        <a rel="next" href="{{ .RelPermalink }}" title="Next post (newer)">
+            {{ .Title }}
+            </a> 
+        {{ end }}
+    </nav>
+    {{ end }}
+</div>
 {{ end }}
