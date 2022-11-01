@@ -12,7 +12,7 @@ All Posts:
   </small>
   {{ end }}
   <ul class="blog-posts">
-    {{ range .Pages }}
+    {{ range (.Paginator 10).Pages }}
     <li>
       <span>
         <b>
@@ -29,6 +29,7 @@ All Posts:
     </li>
     {{ end }}
   </ul>
+  {{ template "_internal/pagination.html" . }}
   {{ if .Data.Singular }}
   {{else}}
     <small>
