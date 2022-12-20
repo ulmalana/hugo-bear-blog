@@ -1,6 +1,7 @@
 +++
 title = "Hidup Cuma Sekali"
 date = "2022-12-20T20:41:15+07:00"
+draft = true
 
 #
 # description is optional
