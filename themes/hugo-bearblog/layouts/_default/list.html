@@ -15,11 +15,9 @@ All Posts:
     {{ range (.Paginator 10).Pages }}
     <li>
       <span>
-        <b>
           <time datetime='{{ .Date.Format "2006-01-02" }}' pubdate>
             {{ .Date.Format (default "02 Jan, 2006" .Site.Params.dateFormat) }}
           </time>
-        </b>
       </span>
       <a href="{{ .Permalink }}">{{ .Title }}</a>
     </li>
