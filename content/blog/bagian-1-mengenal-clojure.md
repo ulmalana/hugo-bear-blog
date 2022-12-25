@@ -17,7 +17,7 @@ tags = ["Clojure", "tutorial"]
 
 Clojure adalah bahasa pemrograman dinamis multiguna dan termasuk dalam keluarga bahasa [Lisp](https://id.wikipedia.org/wiki/Lisp_(bahasa_pemrograman)). Ia adalah *hosted language*, yang artinya ia berjalan di platform lain. Dalam hal ini, meskipun Clojure berbasis Lisp, ia dapat berjalan di Java Virtual Machine (JVM), [JavaScript runtime](https://clojurescript.org/), dan [Common Language Runtime (CLR)](https://clojure.org/about/clojureclr). Jadi, kode clojure yang kita tulis akan dikompilasi ke bahasa Java, JavaScript, atau C# sebelum dijalankan di platform-platform tersebut.
 
-Clojure pertama kali dikembangkan oleh [Rick Hickey](https://en.wikipedia.org/wiki/Rich_Hickey) di tahun 2005 dan dirilis pada Oktober 2007. Namun, Lisp yang menjadi basis dari Clojure sudah ada sejak 1958 (Lisp adalah bahasa pemrograman tertua kedua setelah Fortran). Clojure adalah bahasa pemrograman fungsional yang bisa dipakai untuk berbagai macam tujuan. Rick Hickey mendesain Clojure agar menjadi bahasa pemrograman yang pragmatis, sederhana, dan aman. Clojure dikembangkan untuk memudahkan developer dalam membuat software, terutama dalam skala besar. Selain itu, ia juga dirancang untuk memudahkan konkurensi. Beberapa alasan kenapa Clojure dibuat dapat di lihat [di sini](https://clojure.org/about/rationale).
+Clojure pertama kali dikembangkan oleh [Rick Hickey](https://en.wikipedia.org/wiki/Rich_Hickey) di tahun 2005 dan dirilis pada Oktober 2007. Namun, Lisp yang menjadi basis dari Clojure sudah ada sejak 1958 (Lisp adalah bahasa pemrograman tertua kedua setelah Fortran). Clojure adalah bahasa pemrograman fungsional yang bisa dipakai untuk berbagai macam tujuan. Rick Hickey mendesain Clojure agar menjadi bahasa pemrograman yang pragmatis, sederhana, dan aman. Clojure dikembangkan untuk memudahkan developer dalam membuat software, terutama dalam skala besar. Selain itu, ia juga dirancang untuk memudahkan konkurensi. Beberapa alasan kenapa Clojure dibuat dapat dilihat [di sini](https://clojure.org/about/rationale).
 
 ## Fitur-fitur
 
@@ -73,7 +73,7 @@ Seperti yang kita tahu, program sekarang ini makin kompleks dan dibuat dengan be
 ## Kekurangan Clojure
 Setelah menyebut alasan kenapa harus belajar Clojure, rasanya tidak adil kalau saya tidak menyebut kekurangannya. Jadi, berikut adalah daftar kekurangan Clojure berdasarkan pengalaman saya:
 
-### Startup time JVM yang lambat
+### JVM startup time yang lambat
 Karena berjalan di JVM, Clojure juga punya startup time yang cukup lama. Contoh yang sering saya alami adalah saat memulai REPL. Di laptop saya, biasanya ia butuh sekitar 5 detik untuk berjalan. 
 
 ### Sintaksis Lisp
