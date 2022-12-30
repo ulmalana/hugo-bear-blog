@@ -23,15 +23,15 @@ description = "Tutorial Belajar Clojure"
 
 Selamat datang di tutorial Belajar Clojure. 
 
-Di tutorial ini, saya mencoba untuk berbagi materi belajar Clojure dari awal. Materi di sini akan diperbarui (harapannya) secara berkala. Jika ada saran dan masukkan terkait konten tutorial, silakan kontak saya di [Twitter](https://twitter.com/ulmalana) atau email di `muhamaul@gmail.com`
+Di tutorial ini, saya mencoba untuk berbagi materi belajar Clojure dari awal. Materi di sini akan diperbarui (harapannya) secara berkala. Jika ada yang perlu dikoreksi dan masukkan terkait konten tutorial, silakan kontak saya di [Twitter](https://twitter.com/ulmalana) atau email di `muhamaul@gmail.com`
 
 ### Daftar Isi
 * [Bagian 1: Mengenal Clojure](https://riz.maulana.me/blog/2022/12/bagian-1-mengenal-clojure/)
 * [Bagian 2: Instalasi Clojure](https://riz.maulana.me/blog/2022/12/bagian-2-instalasi-clojure/)
+* [Bagian 3: Instalasi dan Cara Pakai Emacs](https://riz.maulana.me/blog/2022/12/bagian-3-instalasi-dan-cara-pakai-emacs/)
 
 
 ## TODO
-**Instal Emacs**
 
 **REPL, syntax dan expression**
 
