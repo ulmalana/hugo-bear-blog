@@ -88,12 +88,14 @@ Panduan instalasi Clojure CLI yang lebih lengkap sebenarnya sudah tersedia di ha
     ```bash
     $ sudo ./linux-install-1.11.1.1182.sh
     ```
-* Setelah proses instalasi selesai, kita akan diberikan 3 executable file di `/usr/local/bin/clj`, `/usr/local/bin/clojure`, dan `/usr/local/lib/clojure`. Sampai langkah ini, Clojure compiler masih belum terpasang di environment kita dan harus diunduh terlebih dahulu. Jalankan perintah di bawah untuk membuka REPL dan mengunduh Clojure compiler (proses unduh hanya satu kali dan Clojure compiler akan disimpan)
+* Setelah proses instalasi selesai, kita akan diberikan 3 executable file di `/usr/local/bin/clj`, `/usr/local/bin/clojure`, dan `/usr/local/lib/clojure`. Sampai langkah ini, Clojure compiler masih belum sepenuhnya terinstal di environment kita dan harus diunduh terlebih dahulu. Jalankan perintah di bawah untuk membuka REPL dan mengunduh Clojure compiler (proses unduh hanya satu kali dan Clojure compiler akan disimpan)
     ```bash
     $ clojure
     ```
     
     ![CLI REPL](/img/tutorial-clojure/bab-2/cli-repl-1.png)
+    
+    > Perintah `clojure` maupun `clj` dapat digunakan untuk memulai REPL, namun sangat disarankan memakai `clj` karena terdapat beberapa fitur yang sangat membantu seperti *expression history* yang menyimpan ekspresi yang pernah dijalankan di REPL.
     
 * Jika instalasi berhasil, maka akan muncul tampilan REPL seperti di bawah ini. Sama seperti sebelumnya, silakan dicoba untuk mengetik kode Clojure seperti `(+ 5 9 1)` dan `(println "halo dari clojure cli")` di REPL. Tekan `Ctrl+D` untuk keluar dari REPL. File instalasi dapat dihapus jika sudah berhasil.
 
