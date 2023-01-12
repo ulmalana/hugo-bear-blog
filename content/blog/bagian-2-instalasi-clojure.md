@@ -9,7 +9,6 @@ description = "Bagian 2: Instalasi Clojure dan Leiningen"
 
 tags = ["clojure","tutorial",]
 +++
-# Instalasi Clojure
 
 Di [bagian 1](https://riz.maulana.me/blog/2022/12/bagian-1-mengenal-clojure/), saya sudah menjelaskan apa itu Clojure beserta fitur, alasan kenapa harus belajar, dan kekurangannya. Di bagian 2 ini, kita akan mulai membangun Clojure environment agar bisa mengikuti tutorial ini. Environment yang sudah dibangun nantinya juga bisa dipakai untuk membuat project yang lebih besar. Untuk membangun Clojure environment, saya sangat menyarankan menggunakan Linux dan PC/Laptop dengan memori minimal 4GB. Untuk pengguna Windows, saya sarankan untuk memakai WSL. Di tutorial ini, saya memakai Ubuntu 22.04. Langkah-langkahnya seharusnya sama, tinggal disesuaikan perintah-perintah sesuai dengan OS yang dipakai.
 

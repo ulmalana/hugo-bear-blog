@@ -1,8 +1,8 @@
 {{ define "main" }}
-<h1>
+<h2 class="allpost">
 All Posts:
 {{ len (where .Site.RegularPages "Section" "=" "blog") }} Posts
-</h1>
+</h2>
 <hr>
 <content>
   {{ if .Data.Singular }}
