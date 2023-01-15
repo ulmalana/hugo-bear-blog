@@ -1,5 +1,5 @@
 +++
-title = "Bagian 4: Struktur Dan Sintaksis"
+title = "Bagian 4: Struktur dan Sintaksis"
 date = "2023-01-15T11:50:00+07:00"
 
 #
