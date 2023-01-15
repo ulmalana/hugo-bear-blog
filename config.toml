@@ -17,6 +17,8 @@ enableRobotsTXT = true
 # Generate "Bearblog"-like URLs !only!, see https://bearblog.dev/.
 disableKinds = ["taxonomy"]
 ignoreErrors = ["error-disable-taxonomy"]
+enableEmoji = true
+
 [permalinks]
   blog = "/blog/:year/:month/:slug/"
   tags = "/tag/:slug"

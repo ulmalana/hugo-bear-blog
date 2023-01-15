@@ -29,11 +29,9 @@ Di tutorial ini, saya mencoba untuk berbagi materi belajar Clojure dari awal. Ma
 * [Bagian 1: Mengenal Clojure](https://riz.maulana.me/blog/2022/12/bagian-1-mengenal-clojure/)
 * [Bagian 2: Instalasi Clojure](https://riz.maulana.me/blog/2022/12/bagian-2-instalasi-clojure/)
 * [Bagian 3: Instalasi dan Cara Pakai Emacs](https://riz.maulana.me/blog/2022/12/bagian-3-instalasi-dan-cara-pakai-emacs/)
-
+* [Bagian 4: Struktur dan Sintaksis](https://riz.maulana.me/blog/2023/01/bagian-4-struktur-dan-sintaksis/)
 
 ## TODO
-
-**REPL, syntax dan expression**
 
 **Tipe Data**
 
