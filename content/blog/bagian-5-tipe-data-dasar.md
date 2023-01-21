@@ -250,7 +250,7 @@ user> (rationalize 0.25)
 user> (rationalize 3.45331)
 ;; => 345331/100000
 ```
-## Bilangan dengan basis arbitrer
+### Bilangan dengan basis arbitrer
 Clojure mendukung penulisan bilangan dengan basis selain 10 (desimal), seperti biner, oktal, dan heksadesimal. Sintaksis yang digunakan adalah `BrN`, di mana `B` adalah basis atau radiks, dan `N` adalah bilangan yang kita inginkan. Berikut adalah contoh representasi integer 42 dalam biner, oktal, dan heksadesimal:
 
 ```clojure 
