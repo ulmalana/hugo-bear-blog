@@ -87,28 +87,28 @@ user> (not "test")
 Fungsi `and` dan `or` dapat *short-circuit*, yang berarti ia tidak akan mengevaluasi semua argumennya dan langsung mengembalikan nilai. Kedua fungsi itu mengevaluasi argumen dari kiri ke kanan dan berhenti jika memenuhi kriteria berikut:
 
 1. `and` berhenti saat menemui `false` atau `nil`. Jika tidak menemui `false` atau `nil`, argumen paling akhir akan dikembalikan.
-
-	```clojure
-	user> (and 1 2 3)
-	;; => 3
-	user> (and 1 false 3)
-	;; => false
-	user> (and 1 nil 3)
-	;; => nil
-	```
+    
+    ```clojure
+    user> (and 1 2 3)
+    ;; => 3
+    user> (and 1 false 3)
+    ;; => false
+    user> (and 1 nil 3)
+    ;; => nil
+    ```
 
 2. `or` akan berhenti saat bertemu `true` atau nilai selain `false` dan `nil`. Jika tidak menemui satupun nilai yang bernilai `true`, argumen paling akhir akan dikembalikan.
 
-	```clojure
-	user> (or 1 2 3)
-	;; => 1
-	user> (or false nil 3)
-	;; => 3
-	user> (or false nil false)
-	;; => false
-	user> (or nil false nil)
-	;; => nil
-	```
+    ```clojure
+    user> (or 1 2 3)
+    ;; => 1
+    user> (or false nil 3)
+    ;; => 3
+    user> (or false nil false)
+    ;; => false
+    user> (or nil false nil)
+    ;; => nil
+    ```
 
 ## Bilangan
 Clojure memiliki beberapa tipe data bilangan yang mungkin kamu sudah familiar atau belum.
