@@ -114,7 +114,7 @@ Fungsi `and` dan `or` dapat *short-circuit*, yang berarti ia tidak akan mengeval
 Clojure memiliki beberapa tipe data bilangan yang mungkin kamu sudah familiar atau belum.
 
 ### Integer
-Integer digunakan untuk merepresentasikan bilangan bulat. Secara default, semua nilai integer akan disimpan sebagai Java Long yang bisa menyimpan bilangan bulat dari -9.223.372.036.854.775.808 sampai 9.223.372.036.854.775.807. Selain itu, integer juga memiliki fungsi predikat `int?`. Jika tanda `?` pada fungsi predikat `int?` dibuang, kita akan mendapatkan fungsi `int` yang dapat dipakai untuk mengkonversi tipe data bilangan lain ke integer.
+Integer digunakan untuk merepresentasikan bilangan bulat. Secara default, semua nilai integer akan disimpan sebagai Java Long yang bisa menyimpan bilangan bulat dari -9.223.372.036.854.775.808 sampai 9.223.372.036.854.775.807. Selain itu, integer juga memiliki fungsi predikat `int?`. Jika tanda `?` pada fungsi predikat `int?` dibuang, kita akan mendapatkan fungsi `int` yang dapat dipakai untuk mengonversi tipe data bilangan lain ke integer.
 
 ```clojure 
 user> (type 42)
@@ -231,7 +231,7 @@ user> (numerator (/ 7 21))
 user> (denominator (/ 7 21))
 ;; => 3
 ```
-Fungsi predikat untuk ratio adalah `ratio?`. Jika nilai ratio bisa disederhanakan menjadi integer seperti `4/2`, maka `ratio?` akan mengembalikan `false` karena `4/2` dianggap sebagai integer `2`. Selain itu, kita dapat mengkonversi bilangan lain ke bentuk pecahan dengan fungsi `rationalize`.
+Fungsi predikat untuk ratio adalah `ratio?`. Jika nilai ratio bisa disederhanakan menjadi integer seperti `4/2`, maka `ratio?` akan mengembalikan `false` karena `4/2` dianggap sebagai integer `2`. Selain itu, kita dapat mengonversi bilangan lain ke bentuk pecahan dengan fungsi `rationalize`.
 ```clojure 
 user> (ratio? 22/7)
 ;; => true
@@ -358,7 +358,7 @@ user> (type 'c)
 user> (type \c)
 ;; => java.lang.Character
 ```
-Clojure juga memiliki beberapa *special character* yang sulit untuk direpresentasikan per karakter, yaitu `\space` untuk spasi, `\tab` untuk tab, `\newline` untuk membuat baris baru. Selain itu, dengan fungsi `char` kita bisa mengkonversi nilai ASCII ke character.
+Clojure juga memiliki beberapa *special character* yang sulit untuk direpresentasikan per karakter, yaitu `\space` untuk spasi, `\tab` untuk tab, `\newline` untuk membuat baris baru. Selain itu, dengan fungsi `char` kita bisa mengonversi nilai ASCII ke character.
 
 ```clojure
 user> (char 53)
@@ -443,7 +443,7 @@ user> (= 'symbol-1 'symbol-1)
 user> (= '+ '+)
 ;; => true
 ```
-Kita bisa mengkonversi beberapa tipe data lain ke symbol dengan fungsi `symbol`.
+Kita bisa mengonversi beberapa tipe data lain ke symbol dengan fungsi `symbol`.
 
 ```clojure 
 user> (symbol "hasil-konversi")
@@ -475,7 +475,7 @@ user> (= :key1 :key1)
 user> (= :key1 :key2)
 ;; => false
 ```
-Bisa ditebak fungsi apa yang dipakai untuk mengkonversi ke keyword, kan? Yap, `keyword`.
+Bisa ditebak fungsi apa yang dipakai untuk mengonversi ke keyword, kan? Yap, `keyword`.
 
 ```clojure
 user> (keyword "konversi-string")

@@ -41,10 +41,11 @@ Selamat belajar!
 * [Bagian 3: Instalasi dan Cara Pakai Emacs](https://riz.maulana.me/blog/2022/12/bagian-3-instalasi-dan-cara-pakai-emacs/)
 * [Bagian 4: Struktur dan Sintaksis](https://riz.maulana.me/blog/2023/01/bagian-4-struktur-dan-sintaksis/)
 * [Bagian 5: Tipe Data Dasar](https://riz.maulana.me/blog/2023/01/bagian-5-tipe-data-dasar/)
+* [Bagian 6: Struktur Data Koleksi](https://riz.maulana.me/blog/2023/01/bagian-6-struktur-data-koleksi/)
+
+
 ## TODO
 
-
-**Koleksi**
 
 **Struktur kontrol**
 
