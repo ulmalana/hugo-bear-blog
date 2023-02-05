@@ -147,6 +147,8 @@ Perlu diperhatikan bahwa urutan argumen di `conj` berbeda dengan `cons`:
 >            (clojure.lang.RT/conj coll x)))))
 >  nil
 > ```
+> Selain dengan 2 fungsi di atas, kita juga bisa mengakses laman https://clojuredocs.org/,
+> yang berisi dokumentasi beserta contoh pemakaiannya.
 
 
 ```clojure 
