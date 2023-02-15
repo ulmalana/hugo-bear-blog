@@ -22,7 +22,7 @@ Di bagian ini kita akan mengenal cara membuat percabangan dalam program Clojure.
 >
 > Di Spacemacs, *history* ekspresi disimpan dalam satu kesatuan, bukan per baris. Jadi, jika sudah menulis ekspresi yang panjangnya 10 baris, maka dengan `CTRL+↑` kita akan dapatkan 10 baris itu. Tinggal ubah bagian mana saja yang ingin dimodifikasi tanpa perlu mengetik ulang dari awal.
 
-## Pemanasan: `let` binding
+## Pemanasan: let binding
 Sebelum masuk ke materi utama percabangan, mari kita berkenalan lebih lanjut dengan fungsi `let`. Sebelumnya kita sudah melihatnya di [bagian 5](https://riz.maulana.me/blog/2023/01/bagian-5-tipe-data-dasar/). Fungsi `let` digunakan untuk membuat *binding* yang bersifat lokal (gampangnya, untuk membuat **variabel lokal**). *Binding* yang ada di dalam `let` juga bersifat *immutable* dan *persistent* serta tidak bisa diakses dari luar *scope* `let`. 
 
 Berikut adalah contoh `let` *binding*, di mana kita *bind* nilai `42` dengan symbol `x` di dalam vector (di bahasa lain, ini sama seperti `x = 42`). 
@@ -60,7 +60,7 @@ Di bagian ini, `let` *binding* akan digunakan sebagai simulasi saat kita memberi
 
 Mari kita mulai belajar percabangan di Clojure mulai dari yang paling sederhana, yaitu fungsi `if`.
 
-## Percabangan `if`
+## Percabangan if
 Fungsi `if` adalah bentuk percabangan dasar di Clojure. Ia juga disebut sebagai salah satu **special form**. Seperti yang kita tahu, aturan evaluasi standar di Clojure adalah mengevaluasi seluruh argumen dalam suatu ekspresi. Hasil evaluasi ini akan diterapkan ke operator yang ada di sebelah paling kiri. *Special form* punya aturan evaluasi tersendiri yang berbeda dengan aturan standar (makanya dinamakan *special form*). Dalam hal ini, `if` tidak akan mengevaluasi semua argumennya. Proses evaluasi dalam `if` bergantung pada pengecekan kondisi. 
 
 Berikut adalah sintaksis `if`:
@@ -144,7 +144,7 @@ user> (if false
 ;; => nil                   ;; println mengembalikan nil
 ```
 
-### Alternatif: `when` dan `when-not`
+### Alternatif: when dan when-not
 Jika yang kita pedulikan hanya satu cabang saja (benar atau salah), Clojure punya fungsi alternatif yang bisa menangani kasus tersebut, yaitu `when` dan `when-not`.
 
 `when` bisa digunakan jika kita ingin mengevaluasi ekspresi hanya saat kondisi bernilai `true`. Jika `false`, ekspresi akan diabaikan. Fungsi `do` tidak dibutuhkan untuk mengelompokkan ekspresi menjadi satu karena `when` akan mengevaluasi semua ekspresi saat kondisi bernilai `true`.
@@ -255,7 +255,7 @@ user> (let [bmi 18.4]   ;; ganti binding untuk tes nilai lainnya
 Karena `if` hanya punya 2 cabang, di tiap `<ekspresi-jika-salah>` harus dilakukan pengecekan kebenaran lagi dengan `if`. Meskipun bekerja, program BMI di atas kurang enak dibaca. Untuk menangani kasus tersebut, Clojure menyediakan fungsi `cond` yang sintaksisnya lebih mudah dipahami.
 
 
-## Percabangan banyak dengan `cond`
+## Percabangan banyak dengan cond
 Dengan fungsi `cond`, kita bisa membuat percabangan banyak secara sederhana. Ia menerima beberapa pasang ekspresi, misalnya sepasang ekspresi `kondisi-1` dan `ekspresi-1`. Ekspresi `kondisi-1` harus bernilai `true` agar bisa mengevaluasi `ekspresi-1`. Jika tidak ada ekspresi `<kondisi>` yang bernilai `true`, maka `cond` akan mengembalikan `nil`. Berikut adalah sintaksis `cond`:
 
 ```clojure 
@@ -326,7 +326,7 @@ user> (let [bmi 18.4]
 Jika dibandingkan dengan contoh `if`, percabangan dengan `cond` ini terlihat lebih rapi dan enak dibaca karena tiap cabang dikelompokkan dalam satu pasang ekspresi. Jika kita nanti bertemu dengan kasus yang mempunyai cabang banyak, fungsi `cond` sangat disarankan untuk dipakai.
 
 
-## `case`: Percabangan berdasarkan konstanta
+## case: Percabangan berdasarkan konstanta
 Fungsi `case` di Clojure mirip seperti fungsi `switch-case` di bahasa C. Jika fungsi `cond` *memeriksa kebenaran dari kondisi*, fungsi `case` akan *memeriksa nilai/konstanta* untuk melakukan percabangan. Jika nilai/konstanta sesuai dengan yang kita inginkan, kita bisa mengevaluasi ekspresi pasangannya (sama seperti `cond`). Jadi, ekspresi kondisi tidak harus `true` atau `false`, tapi nilai lainnya juga bisa diperiksa. Berikut adalah perbandingan `cond` dan `case` untuk kasus yang sama.
 
 ```clojure 

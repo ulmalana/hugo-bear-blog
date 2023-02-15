@@ -43,11 +43,10 @@ Selamat belajar!
 * [Bagian 5: Tipe Data Dasar](https://riz.maulana.me/blog/2023/01/bagian-5-tipe-data-dasar/)
 * [Bagian 6: Struktur Data Koleksi](https://riz.maulana.me/blog/2023/01/bagian-6-struktur-data-koleksi/)
 * [Bagian 7: Percabangan](https://riz.maulana.me/blog/2023/02/bagian-7-percabangan/)
+* [Bagian 8: Perulangan](https://riz.maulana.me/blog/2023/02/bagian-8-perulangan/)
+
 
 ## TODO
-
-
-**Rekursi**
 
 **Fungsi**
 
