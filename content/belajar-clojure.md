@@ -23,7 +23,7 @@ description = "Tutorial Belajar Clojure"
 
 Selamat datang di tutorial Belajar Clojure. 
 
-Di tutorial ini, saya mencoba untuk berbagi materi belajar Clojure dari awal. Materi belajar Clojure sebenarnya sangat banyak di luar sana, tapi yang dalam bahasa Indonesia sangat sedikit. Selain materi utama bahasa pemrograman Clojure, tutorial ini juga memuat berbagai tips dan trik yang saya pelajari selama belajar Clojure. Saya bukan Clojure expert dan tutorial ini saya tujukan utamanya untuk kalian yang sudah punya pengalaman menulis program tapi bukan dengan Clojure. Jadi, dari pemula untuk pemula.
+Clojure adalah bahasa pemrograman dinamis multiguna dan termasuk dalam keluarga bahasa Lisp. Di tutorial ini, saya mencoba untuk berbagi materi belajar Clojure dari awal. Materi belajar Clojure sebenarnya sangat banyak di luar sana, tapi yang dalam bahasa Indonesia sangat sedikit. Selain materi utama bahasa pemrograman Clojure, tutorial ini juga memuat berbagai tips dan trik yang saya pelajari selama belajar Clojure. Saya bukan Clojure expert dan tutorial ini saya tujukan utamanya untuk kalian yang sudah punya pengalaman menulis program tapi bukan dengan Clojure. Jadi, dari pemula untuk pemula.
 
 Materi tutorial akan diperbarui (harapannya) secara berkala. Jika ada yang perlu dikoreksi dan atau punya masukkan terkait konten tutorial ini, silakan: 
 
@@ -44,7 +44,8 @@ Selamat belajar!
 * [Bagian 6: Struktur Data Koleksi](https://riz.maulana.me/blog/2023/01/bagian-6-struktur-data-koleksi/)
 * [Bagian 7: Percabangan](https://riz.maulana.me/blog/2023/02/bagian-7-percabangan/)
 * [Bagian 8: Perulangan](https://riz.maulana.me/blog/2023/02/bagian-8-perulangan/)
-
+* Bagian 9: Fungsi
+  * [Bagian 9-a: Fungsi](https://riz.maulana.me/blog//2023/03/bagian-9-a-fungsi)
 
 ## TODO
 
