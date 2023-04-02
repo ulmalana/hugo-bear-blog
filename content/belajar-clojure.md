@@ -45,7 +45,8 @@ Selamat belajar!
 * [Bagian 7: Percabangan](https://riz.maulana.me/blog/2023/02/bagian-7-percabangan/)
 * [Bagian 8: Perulangan](https://riz.maulana.me/blog/2023/02/bagian-8-perulangan/)
 * Bagian 9: Fungsi
-  * [Bagian 9-a: Fungsi](https://riz.maulana.me/blog//2023/03/bagian-9-a-fungsi)
+  * [9-a: Membuat Fungsi](https://riz.maulana.me/blog/2023/03/bagian-9-a-fungsi)
+  * [9-b: Multi-arity dan Destrukturisasi Parameter](https://riz.maulana.me/blog/2023/04/bagian-9-b-multi-arity-dan-destrukturisasi-parameter/)
 
 ## TODO
 
