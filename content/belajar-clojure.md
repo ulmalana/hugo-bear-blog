@@ -47,6 +47,7 @@ Selamat belajar!
 * Bagian 9: Fungsi
   * [9-a: Membuat Fungsi](https://riz.maulana.me/blog/2023/03/bagian-9-a-fungsi)
   * [9-b: Multi-arity dan Destrukturisasi Parameter](https://riz.maulana.me/blog/2023/04/bagian-9-b-multi-arity-dan-destrukturisasi-parameter/)
+  * [9-c: Fungsi Variadic](https://riz.maulana.me/blog/2023/06/bagian-9-c-fungsi-variadic/)
 
 ## TODO
 
