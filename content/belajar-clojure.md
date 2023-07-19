@@ -25,7 +25,7 @@ Selamat datang di tutorial Belajar Clojure.
 
 Clojure adalah bahasa pemrograman dinamis multiguna dan termasuk dalam keluarga bahasa Lisp. Di tutorial ini, saya mencoba untuk berbagi materi belajar Clojure dari awal. Materi belajar Clojure sebenarnya sangat banyak di luar sana, tapi yang dalam bahasa Indonesia sangat sedikit. Selain materi utama bahasa pemrograman Clojure, tutorial ini juga memuat berbagai tips dan trik yang saya pelajari selama belajar Clojure. Saya bukan Clojure expert dan tutorial ini saya tujukan utamanya untuk kalian yang sudah punya pengalaman menulis program tapi bukan dengan Clojure. Jadi, dari pemula untuk pemula.
 
-Materi tutorial akan diperbarui (harapannya) secara berkala. Jika ada yang perlu dikoreksi dan atau punya masukkan terkait konten tutorial ini, silakan: 
+Materi tutorial akan diperbarui (harapannya) secara berkala. Jika ada yang perlu dikoreksi dan/atau punya masukkan terkait konten tutorial ini, silakan: 
 
 1. *mention* saya di [Twitter](https://twitter.com/ulmalana)
 2. kontak via email di `muhamaul[at]gmail.com`
