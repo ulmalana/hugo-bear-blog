@@ -29,7 +29,7 @@ Saya ingatkan lagi, proses instalasi di bawah ini saya lakukan di Ubuntu 22.04. 
 
 2. Unduh konfigurasi Spacemacs dan tempatkan di direktori `~/.emacs.d`. Konfigurasi ini akan **menggantikan konfigurasi *existing***. Silakan backup konfigurasi *existing* terlebih dahulu jika ingin mencoba Spacemacs. Setelah ini saya akan menyebut Emacs sebagai Spacemacs.
     ```bash
-    $ git clone https://github.com/syl20bnr/spacemacs ~/.emacs.d`
+    $ git clone https://github.com/syl20bnr/spacemacs ~/.emacs.d
      ```
 
 3. Buka Spacemacs GUI (di menu namanya mungkin masih tetap Emacs) dan di bagian bawah akan muncul **Dotfile wizard installer**.  Kita akan diminta memilih editing style (Emacs, Vim, atau *hybrid*) dan distribusi Spacemacs (*standard* atau *minimalist*). Untuk kedua pilihan tersebut, saya pilih Vim dan *standard distribution*. 

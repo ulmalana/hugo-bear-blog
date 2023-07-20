@@ -38,22 +38,22 @@ Setelah menginstal JDK, langkah selanjutnya adalah menginstal Clojure compiler. 
 
 Clojure CLI adalah *cara resmi* untuk menginstal Clojure compiler. Ia tergolong cukup baru karena dirilis sekitar 2018. Selain itu, menurut saya, jika dibandingkan dengan Leiningen, Clojure CLI ini sedikit lebih ribet.
 
-Di tutorial ini, kita akan fokus memakai Leiningen. Namun saya sarankan untuk instal keduanya (jangan khawatir karena tidak akan bentrok) karena di luar sana banyak tutorial yang memakai Clojure CLI. Alur kerja di Leiningen dan Clojure CLI juga cukup sama, sehingga tidak akan jadi masalah kalau suatu saat nanti harus ganti tool.
+Di tutorial ini, kita akan fokus memakai Leiningen. Namun saya sarankan untuk instal keduanya (jangan khawatir karena tidak akan bentrok) karena di luar sana banyak tutorial yang memakai Clojure CLI. Alur kerja di Leiningen dan Clojure CLI juga cukup mirip, sehingga tidak akan jadi masalah kalau suatu saat nanti harus ganti tool.
 
 ### Instal Leiningen
 Berikut adalah langkah-langkah instalasi Leiningen:
-* Buka halaman resmi Leiningen di https://leiningen.org
+* Buka halaman resmi Leiningen di https://leiningen.org.
 * Unduh `lein` script di bagian **Install**. Beberapa browser mungkin butuh klik kanan -> Save Page As.
-* Copy `lein` script yang sudah diunduh ke salah satu direktori di `PATH`. Cara memeriksa `PATH` bisa dengan perintah `$ echo $PATH`
+* Copy `lein` script yang sudah diunduh ke salah satu direktori di `PATH`. Cara memeriksa `PATH` bisa dengan perintah `$ echo $PATH`.
     * Contoh: di laptop saya, `lein` script saya taruh di `/usr/local/bin`  dengan perintah
     ```bash
     $ sudo cp Downloads/lein /usr/local/bin
     ```
-* Set `lein` script menjadi executable 
+* Set `lein` script menjadi executable. 
     ```bash
     $ sudo chmod a+x /usr/local/bin/lein
     ```
-* Jalankan lein di terminal untuk memulai instalasi compiler dan library
+* Jalankan lein di terminal untuk memulai instalasi compiler dan library.
     ```bash
     $ lein
     ```
@@ -79,7 +79,7 @@ Panduan instalasi Clojure CLI yang lebih lengkap sebenarnya sudah tersedia di ha
     ```bash
     $ curl -O https://download.clojure.org/install/linux-install-1.11.1.1182.sh
     ```
-* Set script instalasi menjadi executable 
+* Set script instalasi menjadi executable. 
     ```bash
     $ chmod +x linux-install-1.11.1.1182.sh
     ```
@@ -87,7 +87,7 @@ Panduan instalasi Clojure CLI yang lebih lengkap sebenarnya sudah tersedia di ha
     ```bash
     $ sudo ./linux-install-1.11.1.1182.sh
     ```
-* Setelah proses instalasi selesai, kita akan diberikan 3 executable file di `/usr/local/bin/clj`, `/usr/local/bin/clojure`, dan `/usr/local/lib/clojure`. Sampai langkah ini, Clojure compiler masih belum sepenuhnya terinstal di environment kita dan harus diunduh terlebih dahulu. Jalankan perintah di bawah untuk membuka REPL dan mengunduh Clojure compiler (proses unduh hanya satu kali dan Clojure compiler akan disimpan)
+* Setelah proses instalasi selesai, kita akan diberikan 3 executable file di `/usr/local/bin/clj`, `/usr/local/bin/clojure`, dan `/usr/local/lib/clojure`. Sampai langkah ini, Clojure compiler masih belum sepenuhnya terinstal di environment kita dan harus diunduh terlebih dahulu. Jalankan perintah di bawah untuk membuka REPL dan mengunduh Clojure compiler (proses unduh hanya satu kali dan Clojure compiler akan disimpan agar bisa dipakai seterusnya)
     ```bash
     $ clojure
     ```
