@@ -31,10 +31,10 @@ user> (nil? 42)
 
 > **Cek tipe data**
 >
-> Selain fungsi predikat, kita bisa memeriksa tipe data atau class dari suatu entitas dengan fungsi `type`. Contoh penggunaanya akan ditunjukan di bawah.
+> Selain fungsi predikat, kita bisa memeriksa tipe data atau class dari suatu entitas dengan fungsi `type`. Contoh penggunaanya akan ditunjukkan di bawah.
 
 ## Boolean
-Tipe data boolean ini sama seperti di bahasa lain, yaitu untuk merepresentasikan benar dan salah, dan kata yang dipakai adalah `true` dan `false`. Di Clojure, `nil` *secara logika* diperlakukan sama seperti `false`. Jadi, selain`false` dan `nil`, **semua nilai** secara logika akan dianggap sebagai `true`. Clojure juga memiliki fungsi predikat untuk memeriksa apakah suatu entitas bernilai `true` atau `false` dengan fungsi `true?` dan `false?`. 
+Tipe data boolean ini sama seperti di bahasa lain, yaitu untuk merepresentasikan benar dan salah, dan kata yang dipakai adalah `true` dan `false`. Di Clojure, `nil` *secara logika* diperlakukan sama seperti `false`. Jadi, selain`false` dan `nil`, **semua nilai** secara logika akan dianggap sebagai `true`. Karakteristik ini biasanya dipakai di percabangan. Clojure juga memiliki fungsi predikat untuk memeriksa apakah suatu entitas bernilai `true` atau `false` dengan fungsi `true?` dan `false?`. 
 
 ```clojure
 user> (true? true)
@@ -111,7 +111,7 @@ Fungsi `and` dan `or` dapat *short-circuit*, yang berarti ia tidak akan mengeval
     ```
 
 ## Bilangan
-Clojure memiliki beberapa tipe data bilangan yang mungkin kamu sudah familiar atau belum.
+Clojure memiliki beberapa tipe data bilangan yang mungkin kamu sudah familiar seperti integer, floating point, dsb. 
 
 ### Integer
 Integer digunakan untuk merepresentasikan bilangan bulat. Secara default, semua nilai integer akan disimpan sebagai Java Long yang bisa menyimpan bilangan bulat dari -9.223.372.036.854.775.808 sampai 9.223.372.036.854.775.807. Selain itu, integer juga memiliki fungsi predikat `int?`. Jika tanda `?` pada fungsi predikat `int?` dibuang, kita akan mendapatkan fungsi `int` yang dapat dipakai untuk mengonversi tipe data bilangan lain ke integer.
@@ -405,7 +405,7 @@ user> (print (str \H \newline \E \newline \H \newline \E \newline))
 ```
 
 ## Symbol
-Symbol adalah *identifier* (atau nama) yang digunakan untuk merujuk ke entitas lain. Entitas ini biasanya adalah **var**, yang merupakan entitas yang dapat menyimpan nilai. Symbol biasanya dipakai untuk menamai sesuatu seperti fungsi dan variabel. Sebagai contoh, pada ekspresi `(+ 2 3)`, `+` adalah symbol. Jika ekspresi tersebut dievaluasi, `+` akan merujuk ke var yang berisi obyek fungsi untuk penjumlahan. Fungsi yang dirujuk symbol `+` inilah yang menerima `2` dan `3` untuk dijumlahkan. Contoh lainnya adalah fungsi `str` yang sudah kita lihat. Ia adalah symbol yang jika dievaluasi akan merujuk ke var yang berisi fungsi untuk menggabungkan string atau character. 
+Symbol adalah *identifier* (atau nama) yang digunakan untuk merujuk ke entitas lain. Entitas ini biasanya adalah **var**, yang merupakan entitas yang dapat menyimpan nilai. Symbol biasanya dipakai untuk menamai sesuatu, seperti fungsi dan variabel. Sebagai contoh, pada ekspresi `(+ 2 3)`, `+` adalah symbol. Jika ekspresi tersebut dievaluasi, `+` akan merujuk ke var yang berisi obyek fungsi untuk penjumlahan. Fungsi yang dirujuk symbol `+` inilah yang menerima `2` dan `3` untuk dijumlahkan. Contoh lainnya adalah fungsi `str` yang sudah kita lihat. Ia adalah symbol yang jika dievaluasi akan merujuk ke var yang berisi fungsi untuk menggabungkan string atau character. 
 
 ```clojure 
 user> +
@@ -457,7 +457,7 @@ user> (type (symbol :ini-apa-ya?))
 Jadi, di Clojure ada pemisahan antara nama dan sesuatu yang dirujuk oleh nama tersebut, seperti perbedaan antara nama orang dengan orang yang dinamai.
 
 ## Keywords
-Jika symbol adalah nama yang merujuk ke entitas yang ia namai, maka keyword adalah nama itu sendiri. Ia lebih simpel karena ia merujuk ke dirinya sendiri (bukan ke var). Dengan begini, tanda petik satu `'` sudah tidak dibutuhkan lagi di keyword. Di Clojure, keyword selalu diawali dengan tanda titik dua `:`.
+Keywords adalah tipe data yang mirip dengan symbol. Jika symbol merujuk ke suatu var, keywords lebih simpel karena ia merujuk ke dirinya sendiri (bukan ke var). Dengan begini, tanda petik satu `'` sudah tidak dibutuhkan lagi di keyword. Di Clojure, keyword selalu diawali dengan tanda titik dua `:`.
 
 ```clojure
 user> :contoh
@@ -496,7 +496,7 @@ Bagi yang belum terbiasa dengan Lisp, konsep symbol dan keyword ini memang hal y
 
 
 ## Menyimpan Nilai
-Sampai di sini, kita sudah mengenal beberapa tipe data dasar dan juga melakukan operasi-operasi dasar terhadap mereka. Jika diperhatikan, semua nilai yang kita ketik di contoh-contoh di atas adalah data literal yang tidak disimpan di dalam memori. Setelah kita mengevaluasi sebuah ekspresi, ia akan segera ditampilkan tanpa disimpan. Lalu bagaimana cara menyimpan (atau di Clojure dikenal dengan istilah **bind** atau mengikat/mengasosiasikan) data literal ke suatu identifier/nama/variabel? Kita bisa memakai fungsi `def` dengan sintaksis sebagai berikut:
+Sampai di sini, kita sudah mengenal beberapa tipe data dasar dan juga melakukan operasi-operasi dasar terhadap mereka. Jika diperhatikan, semua nilai yang kita ketik di contoh-contoh di atas adalah data literal yang tidak disimpan di dalam memori. Setelah kita mengevaluasi sebuah ekspresi, ia akan segera ditampilkan dan tidak disimpan. Lalu bagaimana cara menyimpan (atau di Clojure dikenal dengan istilah **bind** atau mengikat/mengasosiasikan) data literal ke suatu identifier/nama/variabel? Kita bisa memakai fungsi `def` dengan sintaksis sebagai berikut:
 
 ```clojure 
 (def <nama> <ekspresi>)
