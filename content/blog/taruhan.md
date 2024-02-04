@@ -10,7 +10,7 @@ date = "2023-12-31T12:09:16+01:00"
 tags = ["tulisan-bebas",]
 +++
 
-Mulai Januari 2024, saya akan bertaruh waktu saya 4 tahun ke depan untuk belajar lagi di luar negeri dengan harapan nantinya saya berada di posisi yang lebih baik. Di luar dunia akademik, 4 tahun adalah waktu yang cukup luang untuk memanjat tangga karir ke posisi yang tinggi dan juga untuk hal-hal lainnya. Apalagi melihat usia saya yang hampir kepala tiga dan masih *single*. Tapi kali ini saya memberanikan diri bertaruh nasib.
+Mulai Januari 2024, saya akan bertaruh waktu saya 4 tahun ke depan untuk belajar lagi di luar negeri dengan harapan nantinya saya berada di posisi yang lebih baik. Di luar dunia akademik, 4 tahun adalah waktu yang cukup luang untuk memanjat tangga karir ke posisi yang tinggi dan juga untuk hal-hal lainnya. Bagi saya, *opportunity cost* untuk lanjut sekolah lagi sangat tinggi. Apalagi melihat usia saya yang hampir kepala tiga dan masih *single*. Tapi kali ini saya memberanikan diri bertaruh nasib.
 
 Awalnya saya sudah melupakan keinginan untuk sekolah lagi dan ingin menjalani *real life*. Preferensi saya adalah bekerja di industri dan sudah banyak lamaran yang saya kirim dengan hasil yang bervariasi. Selain itu saya juga sudah coba cari alasan untuk bisa "settle down". Namun hasilnya masih belum sesuai: semua "lamaran" tidak ada yang berhasil. Sampai suatu hari saya tidak sengaja melihat lowongan posisi PhD candidate di TU Eindhoven yang (bagi saya) persyaratannya cukup mudah. Karena sejauh ini lamaran saya tidak berhasil, saya cukup tertarik dan lamaran pun dikirim. Saya berani melamar posisi tersebut karena paling tidak nanti dapat gaji meskipun statusnya PhD candidate. Tidak ada ekspektasi bakal diterima karena bukan preferensi utama.
 
