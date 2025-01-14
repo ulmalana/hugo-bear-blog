@@ -7,7 +7,7 @@ date = "2024-02-29T10:28:53+01:00"
 #
 # description = "An optional description for SEO. If not provided, an automatically created summary will be used."
 
-tags = ["budgie","clojure","gnu/linux","hugo","hujan","kereta-api","kucing","kuliah","malang","nama-domain","pengalaman","trip-report","tulisan-bebas","tutorial","ubuntu",]
+tags = ["tulisan-bebas",]
 +++
 
 Terinspirasi oleh [Seulgi](https://en.wikipedia.org/wiki/Seulgi_(singer)) yang merilis lagu [28 Reasons](https://www.youtube.com/watch?v=G_BYjnopO6U) di umur 28, saya juga ingin membuat daftar 29 *reasons* versi saya sendiri di umur 29 ini: ***29 reasons why I should keep on living** (please don't judge me here)*. Pada akhirnya daftar ini mirip seperti *wishlist* yang suatu saat (harapannya) semuanya bisa tercapai. Empat tahun dari sekarang, di 29 Februari 2028, saya ingin tahu poin mana saja yang tercapai. Urutan di daftar ini acak dan tidak ada hubungannya dengan skala prioritas atau mana yang lebih penting. 
