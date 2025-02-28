@@ -27,7 +27,7 @@ Clojure adalah bahasa pemrograman dinamis multiguna dan termasuk dalam keluarga 
 
 Materi tutorial akan diperbarui (harapannya) secara berkala. Jika ada yang perlu dikoreksi dan/atau punya masukkan terkait konten tutorial ini, silakan: 
 
-1. *mention* saya di [Twitter](https://twitter.com/ulmalana)
+1. ~~*mention* saya di [Twitter](https://twitter.com/ulmalana)~~
 2. kontak via email di `muhamaul[at]gmail.com`
 3. buka issue di https://github.com/ulmalana/hugo-bear-blog
 
