@@ -1,12 +1,12 @@
 ---
-title: "Resume"
+title: "Home"
 date: 2022-10-20T14:42:23+07:00
 draft: false
 ---
 
 <!-- =========================  HERO ========================= -->
-# **Riz Maulana**  
-*PhD Candidate, IRIS Cluster — Eindhoven University of Technology*  
+# **Riz Maulana**
+*PhD Candidate, Eindhoven University of Technology*  
 
 <!-- <!-- One-line elevator pitch (~20 words) --> -->
 <!-- > PhD Candidate working on accurate and efficient network monitoring -->
@@ -35,8 +35,9 @@ I am a second-year PhD Candidate within [IRIS Cluster](https://iris.win.tue.nl) 
 ---
 
 ## 📰 News & Updates
+* **Jul 2025** Presented StragFlow at ACM/IRTF ANRW 2025
 * **Jun 2025** Attended 2025 TMA PhD School and Conference
-* **Apr 2025** "Detecting Stragglers in Programmable Data Plane" accepted in IFIP Networking 2025.  
+* **Apr 2025** "Detecting Stragglers in Programmable Data Plane" has been accepted in IFIP Networking 2025.  
 * **Oct 2024** Passed PhD Qualifier.  
 * **Jan 2024** Started PhD.  
 ---
@@ -57,7 +58,7 @@ I am a second-year PhD Candidate within [IRIS Cluster](https://iris.win.tue.nl) 
 ## 📚 Teaching
 * **Q3 2024** TA for Architecture of Distributed System, TU/e 
 * **Q2 2024** TA for Computer networks and security, TU/e
-* **2015-2017** TA for Computer networking course,Brawijaya University
+* **2015-2017** TA for Computer networking course, Brawijaya University
 
 ---
 
